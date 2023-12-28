@@ -1,2 +1,0 @@
-# serenity-view
-# serenity-view
